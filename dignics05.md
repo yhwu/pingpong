@@ -31,16 +31,16 @@ These properties mean very differently for amateurs and professionals. For most 
 
 D05 is very good at passive serve returns and drop shorts. Just relax and move with your body or arm. Do not use wrist unless you want to go active. Remember, it is a high tension rubber.
 
-For everything else, a good forward motion to engage the rubber is a must. D05's comfort zone lies within its low throws. Just hit into the ball. Its low throw angle means if your stroke is a little bit imprecise, it does not really matter. If the incoming ball has some low or medium spin on it, whether top or under, you can just smash it back, or loop drive back if you want to add some insurance. D05 is surprisingly good at smashing under spin balls. The trajectory is flat, floaty, fast, and the ball is heavy. For the same reason, D05 is very good at blocking and countering. Just aim at the other side of the table, do not hesitate, simply punch, smash, or loop back. At practice, one should talk to oneself to hit forward, hit forward, and hit forward to experience and and assess that safety margin.
+It is important to avoid thin brushes. Thin contact is just too risky for low throws. Brushing too much, you may over compensating, not enough, the ball goes down. As mentioned earlier, a low throw angle is likely to cause the ball pop up in pushing. So, you need to angle your paddle a little more vertical to clear the net low.  
 
-It is also important to avoid thin brushes. Thin contact is just too risky for low throws. Brushing too much, you may over compensating, not enough, the ball goes down. As mentioned earlier, a low throw angle is likely to cause the ball pop up in pushing. So, you need to angle your paddle a little more vertical to clear the net low.  
+For everything else, a good forward motion to engage the rubber is a must. D05's comfort zone lies within its low throws. Just hit into the ball. Its low throw property means if your stroke is a little bit imprecise, it does not really matter. If the incoming ball has some low or medium spin on it, whether top or under, you can just smash it back, or loop drive back if you want to add some insurance. D05 is surprisingly good at smashing under spin balls. The trajectory is flat, floaty, fast, and the ball is heavy. For the same reason, D05 is very good at blocking and countering. Even when you are out of position, do not hesitate, aim at the other side of the table, make it simple, just punch, smash, or loop back in what ever awkward way as you are. At practice, one should talk to oneself to hit forward, hit forward, and hit forward to experience and and assess that safety margin, which is the key purpose introduced by D05.
 
 
 ### How does it feel
 
-Due to the soft top sheet, D05 does not give clear feedbacks. When pushing, it is kind of muted. When smashing, it feels like dead rubber. Do not get me wrong. It is mighty fast and I equate that dead feeling as stability. D05 only feels good when doing loop drives. It feels like the ball is dragging your rubber down. While using H3N and G1, it feels like you are dragging the ball up. 
+Due to the soft top sheet, D05 does not give clear feedbacks. When pushing, it is kind of muted. When smashing, it feels like dead rubber. Do not get me wrong. It is mighty fast and I equate that dead feeling as stability. D05 only feels great when doing loop drives. It feels like the ball is dragging your rubber down. While using H3N and G1, it feels like you are dragging the ball up. 
 
 
-### Final thoughts
+### Epiloge
 
-D05 is a brilliant innovation from Butterfly. It is clearly designed for offensive 3rd ball, 5th ball attack games. After half a year, I still find it difficult to use. But, while using it, I became self aware of many mistakes I have been doing subconsciously. Analyzing my own mistakes and trying to get used to this unique rubber resulted in this essay.
+D05 is a brilliant innovation from Butterfly. It is clearly designed for offensive 3rd ball, 5th ball attack games. After half a year, I still find it difficult to use. But, while using it, I became self aware of many mistakes I have been doing subconsciously. Analyzing my own mistakes and trying to take advantages of this unique rubber resulted in this essay.
