@@ -44,5 +44,11 @@ Simply hitting the ball with a relatively closed tangent angle will render the t
 
 #### Chop block.
 
+#### Return short top spin serves.
+Advanced players can do flip or chop down. Here, we only focus on the easiest way, a short swing drive. The crucial point is to pause.
 
+The incoming ball is slow and spiny. If you don't move your paddle fast enough, you can't stop the spin; if you do a fast swing, you risk making it go off the table or into the net as you don't have a good distance to work out a trajectory. Textbook returns include the following steps: 1. step up under the table, 2. short pause, 3. short swing drive with a almost vertical paddle. Here, the second step, the short pause, is often not emphasized enough, but it is the key for reliability. The pause essentially sets your motion to zero and gives you the opportunity to correct your paddle angle. As you swing to the ball, you are applying an acceleration from a low speed so there is more contact time to work on the outgoing angle. Starting from a low speed also means you can maintain that acceleration longer so that the ball is under your guidance during the full course. 
 
+Lots of amateurs players can't execute this return very well because they rush into position and swing their paddles right away. It is simply hard to angle the paddle correctly and swing in the right directions at that precise moment. Some player can do very good loops from mid distance and away from the table, but struggle with short play. That could also be one of the reasons. 
+
+So, pause, reset, and don't rush!
