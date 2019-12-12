@@ -27,3 +27,9 @@ http://mytabletennis.net/forum/really-heavy-sidespin-serves_topic48866_page2.htm
 > 3.  Simple block - only against players that don't have a strong 3rd ball attack
 > 4.  Roll over it - this is my most effective return.  Using a lot of wrist and just a little forward motion, I just kind of throw the ball to the other side.  Hard to explain in words.
 
+
+## Dangers of waist rotation
+
+http://mytabletennis.net/forum/dangers-of-waist-rotation_topic85492_page2.html
+
+> Hi serr, thanks for the post! Firstly I would advise you to take some rest and  stop TT if you have lower back pain! But to learn the technique, firstly you need to know how to brace your core effectively (those who had strength training experience will know, otherwise there's quite a lot of resources on youtube or google), once you brace your core, your waist is gonna be like a hard rock. Without the core bracing everything else will fall apart! Once you start bracing your core, you will disable the harmful waist rotation. Then, with that as a foundation you can rotate your chest and your shoulders without rotating your waist. Combine that with leg driven hip rotation, and you have the stroke down. 
