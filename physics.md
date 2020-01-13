@@ -52,3 +52,29 @@ The incoming ball is slow and spiny. If you don't move your paddle fast enough, 
 Lots of amateurs players can't execute this return very well because they rush into position and swing their paddles right away. It is simply hard to angle the paddle correctly and swing in the right directions at that precise moment. Some player can do very good loops from mid distance and away from the table, but struggle with short play. That could also be one of the reasons. 
 
 So, pause, reset, and don't rush!
+
+### Generate speed through rotational acceleration
+
+1. body move forward
+
+F----------F----------P
+           |          
+F----------F----------P
+
+
+2. body pull left
+                    
+                   P
+         F
+          \
+F----------F----------P
+
+
+Generate speed through rotational acceleration
+
+Most people know that in order to impart maximum power to the ball when we do forehand drive or loop, we should use our legs and transfer the power like a whip through changing center of weight. However, most discussions on forums and youtube videos seem to emphasize forward motions as if all that power through legs and body is for moving forward. Lots of amateurs do that, but their balls are still slow. Why? 
+
+Because they did not use leverage. Let's consider two ways of moving the body in the following diagram. I am using F to represent feet positions and P paddle positions, and let's assume his arm is fixed and the distance between his feet is the same as the length of his arm. In the first way, the player's right foot moves his body forward and so goes with his paddle in parallel. Whatever the speed he achieved with his foot is the speed of his paddle. In the second way, the player fixed his left foot and moved his right foot left and forward. It is basic trigonometry that the paddle traveled twice the distance as the right foot. And, this is the most efficient way to use leg power.
+
+In clubs, I see most amateur players use their body power in the first way, trying to gain forward momentum. They could easily amplify the effectiveness by apply the force side ways. 
+
